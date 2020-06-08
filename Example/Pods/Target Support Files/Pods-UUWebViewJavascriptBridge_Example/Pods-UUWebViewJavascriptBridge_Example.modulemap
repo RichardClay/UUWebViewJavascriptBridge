@@ -1,0 +1,6 @@
+framework module Pods_UUWebViewJavascriptBridge_Example {
+  umbrella header "Pods-UUWebViewJavascriptBridge_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

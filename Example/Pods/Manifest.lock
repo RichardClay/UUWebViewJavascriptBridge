@@ -1,0 +1,16 @@
+PODS:
+  - UUWebViewJavascriptBridge (0.1.0)
+
+DEPENDENCIES:
+  - UUWebViewJavascriptBridge (from `../`)
+
+EXTERNAL SOURCES:
+  UUWebViewJavascriptBridge:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  UUWebViewJavascriptBridge: fe6dec2b04da71d61e1fe5f465b2aeb19f83a706
+
+PODFILE CHECKSUM: 9273013872f0f3a06c1ed5cf1ac8ebb65c3f4a97
+
+COCOAPODS: 1.9.1
